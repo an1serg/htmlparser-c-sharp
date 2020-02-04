@@ -1,0 +1,13 @@
+c:\users\сергей\documents\visual studio 2015\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.exe
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.exe
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.Form2.resources
